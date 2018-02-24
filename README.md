@@ -1,2 +1,0 @@
-# Piscina
-Ejercicio de AdaByron
