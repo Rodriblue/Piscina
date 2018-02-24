@@ -13,6 +13,7 @@ Como dice el refrán "mal de mucho consuelo de tontos"; la tarea de llenado ser�
 
 ENTRADA:
 
+
 La entrada estará compuesta de múltiples casos de prueba, cada uno en una línea.
 
 Cada uno de los casos de prueba empezará con la descripción de una "competición" entre nosotros y el vecino. Los tres primeros números indican los litros de agua de nuestra piscina (1≤ p ≤ 109), el número de litros de nuestro barreño (1 ≤ b ≤ 109) y por último los litros de agua que la piscina pierde durante el viaje. A continuación aparecen tres números para indicar la misma información pero de nuestro vecino.
